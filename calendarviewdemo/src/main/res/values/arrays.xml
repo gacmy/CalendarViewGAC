@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 普通员工时，看到的标签显示 -->
+    <string-array name="fragment_list">
+        <item>公务用车</item>
+        <item>公共交通</item>
+        <item>爱车服务 </item>
+    </string-array>
+    
+    <!-- 管理员和调度员时，看到的标签显示 -->
+    <string-array name="fragment_list_diaodu">
+        <item>公务用车</item>
+        <item>公共交通</item>
+        <item>爱车服务</item>
+        <item>调度派车</item>
+    </string-array>
+    
+    
+    <!-- 六安驾驶员时，看到的标签显示 -->
+    <string-array name="fragment_list_luan_driver">
+        <item>公共交通</item>
+        <item>爱车服务</item>
+    </string-array>
+    
+     <string-array name="pricetype_list">
+        <item>按天</item>
+        <item>按次</item>
+    </string-array>
+    
+     <string-array name="usecar_list">
+        <item>市内</item>
+        <item>市外</item>
+    </string-array>
+    
+     <string-array name="usecar_list_int">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    
+      <string-array name="pricetypeids_list">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    
+    <string-array name="apply_car_type_list02">
+        <item>机要、应急车辆</item>
+        <item>调研接待车辆(外事)</item>
+        <item>特种专业用车</item>
+    </string-array>
+    
+    <string-array name="apply_car_type_id_list02">
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+    </string-array>
+    
+    <string-array name="apply_car_type_list1">
+        <item>机要、应急车辆</item>
+        <item>调研接待车辆(外事)</item>
+        <item>行政执法车辆</item>
+        <item>特种专业用车</item>
+    </string-array>
+    
+    <string-array name="apply_car_type_id_list1">
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+    
+     <string-array name="tasktype_list">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+    
+     <string-array name="tasktype_list_apply">
+        <item>请选择任务级别</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+    
+     <string-array name="pincar_list_name">
+        <item>不拼车</item>
+        <item>拼车</item>
+    </string-array>
+    
+     <string-array name="pincar_list_id">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+     
+    <string-array name="sptimespanarrtask">
+        <item >最近一周</item>
+        <item >最近一个月</item>
+        <item >最近三个月</item>
+    </string-array>
+     <string-array name="spcarstatus">
+        <item >空置中</item>
+        <item >待命中</item>
+        <item >服务中</item>
+    </string-array>
+     <string-array name="jiancheng_list">
+         <item>京</item>
+         <item>津</item>
+         <item>沪</item>
+         <item>川</item>
+         <item>鄂</item>
+         <item>甘</item>
+         
+         <item>赣</item>
+         <item>桂</item>
+         <item>贵</item>
+         <item>黑</item>
+         <item>吉</item>
+         <item>翼</item>
+         
+         <item>晋</item>
+         <item>辽</item>
+         <item>鲁</item>
+         <item>蒙</item>
+         <item>闽</item>
+         <item>宁</item>
+         
+         <item>青</item>
+         <item>琼</item>
+         <item>陕</item>
+         <item>苏</item>
+         <item>皖</item>
+         <item>湘</item>
+         
+         <item>新</item>
+         <item>渝</item>
+         <item>豫</item>
+         <item>粤</item>
+         <item>云</item>
+         <item>藏</item>
+         
+         <item>浙</item>
+         <item></item>
+     </string-array>
+     <string-array name="city_list">
+         <item>省直机关</item>
+         <item>合肥</item>
+         <item>芜湖</item>
+         <item>蚌埠</item>
+         <item>淮南</item>
+         <item>马鞍山</item>
+         <item>淮北</item>
+         <item>铜陵</item>
+         <item>安庆</item>
+         <item>黄山</item>
+         <item>滁州</item>
+         <item>宣城</item>
+         <item>巢湖</item>
+         <item>阜阳</item>
+         <item>六安</item>
+         <item>宿州</item>
+         <item>亳州</item>
+         <item>池州</item>
+     </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="toptextsize">22sp</dimen>
+    <dimen name="smalltextsize">14sp</dimen>
+    <dimen name="middeltextsize">16sp</dimen>
+    <dimen name="tosmalltextsize">12sp</dimen>
+    <dimen name="tosmalltextsize2">13sp</dimen>
+    <dimen name="logintextsize">18sp</dimen>
+    <dimen name="titlesize">18sp</dimen>
+    <dimen name="textsize">15sp</dimen>
+    <dimen name="paddingsize">10dp</dimen>
+    <dimen name="paddingsize2">5dp</dimen>
+    <dimen name="spinnermarginsize">20dp</dimen>
+    <dimen name="spinnermarginsize2">12dip</dimen>
+    <dimen name="marginsizeleft">40dp</dimen>
+    <dimen name="loadingsize">35dip</dimen>
+    <dimen name="carimgsize">50dp</dimen>
+    <dimen name="margintop">20dip</dimen>
+    <dimen name="marginleft">15dp</dimen>
+    <dimen name="titlebarheight">45dp</dimen>
+
+    <dimen name="margintop2">5dp</dimen>
+    <dimen name="margintop1">10dp</dimen>
+    <dimen name="marginsize">5dp</dimen>
+    <dimen name="maxtextsize">30sp</dimen>
+    <dimen name="toomaxtextsize">40sp</dimen>
+    <dimen name="checkboxtextsize">13sp</dimen>
+    <dimen name="nheadsize">70dip</dimen>
+    <dimen name="csy_title_ts">18sp</dimen>
+
+    <dimen name="csy_pd">10.0dp</dimen>
+    <dimen name="csy_row_h">64.0dp</dimen>
+    <dimen name="csy_label_w">70.0dp</dimen>
+    <dimen name="csy_label_ts">13.0sp</dimen>
+    <dimen name="csy_item_h">52.0dp</dimen>
+    <dimen name="csy_text_ts">16.0sp</dimen>
+    <dimen name="csy_icon_w">40.0dp</dimen>
+    <dimen name="csy_btn_h">46.0dp</dimen>
+    <dimen name="csy_tip_h">30.0dp</dimen>
+
+    <dimen name="csy_mg">15.0dp</dimen>
+
+
+
+</resources>
